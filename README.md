@@ -1,11 +1,10 @@
-Here's an optimized version of the `README.md` focused on ensuring fast execution in a Zsh terminal on a Mac, tailored for quick setup and usage:
-
-```markdown
 # AI API Automations
 
 ## Overview
 
 This repository provides fast and efficient scripts to automate the setup of various AI APIs, including the OpenAI Assistant API, OpenAI API, and OpenAI JSON Structured Outputs. These tools are optimized for quick execution in a Zsh terminal on macOS, ensuring minimal overhead and streamlined workflows.
+
+The automation scripts were created based on the detailed evaluation of the provided URLs.
 
 ## Features
 
@@ -174,9 +173,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or feedback, please reach out to [Nate Dryer](https://github.com/nate-dryer).
-```
 
-### Key Optimizations:
-- **Execution in Zsh:** The scripts and commands are optimized for quick execution in Zsh on macOS, utilizing typical Mac tools and utilities.
-- **Reduced Overhead:** The focus on minimal dependencies ensures that the setup process is as fast as possible, avoiding unnecessary bloat.
-- **Environment Variables:** Direct integration of environment variables in the `.zshrc` ensures that the setup is streamlined for Mac users.
+## References
+
+- https://platform.openai.com/docs/overview
+- https://platform.openai.com/docs/quickstart
+- https://platform.openai.com/docs/concepts
+- https://platform.openai.com/docs/models
+- https://platform.openai.com/docs/models/gpt-4
+- https://platform.openai.com/docs/models/model-endpoint-compatibility
+- https://platform.openai.com/docs/guides/chat-completions
+- https://platform.openai.com/docs/assistants/overview
+- https://platform.openai.com/docs/assistants/deep-dive/managing-threads-and-messages
+- https://platform.openai.com/docs/examples
+- https://platform.openai.com/docs/tutorials/web-qa-embeddings
+- https://platform.openai.com/docs/guides/structured-outputs/json-mode
